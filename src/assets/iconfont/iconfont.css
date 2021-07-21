@@ -1,0 +1,59 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 1066735 */
+  src: url('iconfont.woff2?t=1626332930856') format('woff2'),
+       url('iconfont.woff?t=1626332930856') format('woff'),
+       url('iconfont.ttf?t=1626332930856') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.el-icon-cloud-yuyan:before {
+  content: "\e60b";
+}
+
+.el-icon-cloud-zhankai:before {
+  content: "\e67e";
+}
+
+.el-icon-cloud-shousuo:before {
+  content: "\e67f";
+}
+
+.el-icon-cloud-yiwancheng:before {
+  content: "\e608";
+}
+
+.el-icon-cloud-Bed:before {
+  content: "\e6b3";
+}
+
+.el-icon-cloud-doctor:before {
+  content: "\e659";
+}
+
+.el-icon-cloud-lock:before {
+  content: "\e7c9";
+}
+
+.el-icon-cloud-icon_add:before {
+  content: "\eb8f";
+}
+
+.el-icon-cloud-icon_boss:before {
+  content: "\eb90";
+}
+
+.el-icon-cloud-icon_horn:before {
+  content: "\eb96";
+}
+
+.el-icon-cloud-icon_im_voice:before {
+  content: "\eb97";
+}
+

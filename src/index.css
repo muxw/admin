@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+button {
+  outline: none !important;
+}
+.el-loading-spinner svg {
+  display: inline-block !important;
+}

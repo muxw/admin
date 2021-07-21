@@ -1,0 +1,86 @@
+{
+  "id": "1066735",
+  "name": "cloud",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-cloud-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "12515456",
+      "name": "语言",
+      "font_class": "yuyan",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "16394899",
+      "name": "展开",
+      "font_class": "zhankai",
+      "unicode": "e67e",
+      "unicode_decimal": 59006
+    },
+    {
+      "icon_id": "16394903",
+      "name": "收缩",
+      "font_class": "shousuo",
+      "unicode": "e67f",
+      "unicode_decimal": 59007
+    },
+    {
+      "icon_id": "6540390",
+      "name": "已完成",
+      "font_class": "yiwancheng",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "7213834",
+      "name": "Bed",
+      "font_class": "Bed",
+      "unicode": "e6b3",
+      "unicode_decimal": 59059
+    },
+    {
+      "icon_id": "5832494",
+      "name": "doctor",
+      "font_class": "doctor",
+      "unicode": "e659",
+      "unicode_decimal": 58969
+    },
+    {
+      "icon_id": "4766695",
+      "name": "lock",
+      "font_class": "lock",
+      "unicode": "e7c9",
+      "unicode_decimal": 59337
+    },
+    {
+      "icon_id": "7766709",
+      "name": "icon_add",
+      "font_class": "icon_add",
+      "unicode": "eb8f",
+      "unicode_decimal": 60303
+    },
+    {
+      "icon_id": "7766714",
+      "name": "icon_boss",
+      "font_class": "icon_boss",
+      "unicode": "eb90",
+      "unicode_decimal": 60304
+    },
+    {
+      "icon_id": "7766748",
+      "name": "icon_horn",
+      "font_class": "icon_horn",
+      "unicode": "eb96",
+      "unicode_decimal": 60310
+    },
+    {
+      "icon_id": "7766757",
+      "name": "icon_im_voice",
+      "font_class": "icon_im_voice",
+      "unicode": "eb97",
+      "unicode_decimal": 60311
+    }
+  ]
+}
